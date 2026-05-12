@@ -1,8 +1,11 @@
 <Solution>
   <Folder Name="/src/">
+    <Project Path="src/CTWAnalysis.Console/CTWAnalysis.Console.csproj" />
     <Project Path="src/CTWAnalysis.Domain/CTWAnalysis.Domain.csproj" />
+    <Project Path="src/CTWAnalysis.Parsing/CTWAnalysis.Parsing.csproj" />
   </Folder>
   <Folder Name="/tests/">
     <Project Path="tests/CTWAnalysis.Domain.Tests/CTWAnalysis.Domain.Tests.csproj" />
+    <Project Path="tests/CTWAnalysis.Parsing.Tests/CTWAnalysis.Parsing.Tests.csproj" />
   </Folder>
 </Solution>

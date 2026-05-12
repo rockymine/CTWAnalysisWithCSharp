@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/CTWAnalysis.Domain/CTWAnalysis.Domain.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/CTWAnalysis.Domain.Tests/CTWAnalysis.Domain.Tests.csproj" />
+  </Folder>
+</Solution>
